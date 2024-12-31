@@ -53,7 +53,7 @@ Below are examples of detected and undetected probes during the evaluation proce
 
 *Example of a successful probe detection with a confidence score of 0.93.*
 
-### Detail results are discussed in the paper [Prob Detection Report](https://github.com/Melaku-Y/Probe-Detection-Using-Deep-Learning/blob/main/Prob%20Detection%20Report.pdf)
+#### Detail results are discussed in the paper [Prob Detection Report](https://github.com/Melaku-Y/Probe-Detection-Using-Deep-Learning/blob/main/Prob%20Detection%20Report.pdf) and "results" Folder
 
 
 ---
