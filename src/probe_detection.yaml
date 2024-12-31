@@ -1,0 +1,11 @@
+# Custom YOLOv5 Dataset Config File
+train: C:/Users/etudiant/Desktop/Deep_Learning/data/splits/images/train
+val: C:/Users/etudiant/Desktop/Deep_Learning/data/splits/images/val
+test: C:/Users/etudiant/Desktop/Deep_Learning/data/splits/images/test
+
+
+# Number of classes
+nc: 1
+
+# Class names
+names: ['probe']
