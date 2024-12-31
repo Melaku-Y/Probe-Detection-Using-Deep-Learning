@@ -41,7 +41,20 @@ This project focuses on using the YOLOv5 deep learning framework for detecting u
 
 ## Evaluation
 
+
+
+Below are examples of detected and undetected probes during the evaluation process:
+
+![No Detection](https://github.com/Melaku-Y/Probe-Detection-Using-Deep-Learning/blob/main/results/detect/exp_detect/EL300858804493_00193_048_1flight_1500_0.jpg)
+
+*Example of no detection from the dataset.*
+
+![Detection](https://github.com/Melaku-Y/Probe-Detection-Using-Deep-Learning/blob/main/results/detect/exp_detect/E300PREMP00002_00725_216_1flight_1500_2.jpg)
+
+*Example of a successful probe detection with a confidence score of 0.93.*
+
 ### Detail results are discussed in the paper [Prob Detection Report](https://github.com/Melaku-Y/Probe-Detection-Using-Deep-Learning/blob/main/Prob%20Detection%20Report.pdf)
+
 
 ---
 
